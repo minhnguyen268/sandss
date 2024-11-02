@@ -20,13 +20,21 @@ const Languages = [
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1599px-Flag_of_Vietnam.svg.png"
   },
   {
+    lng: "cn",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/125px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+  },
+  {
     lng: "en",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/600px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"
   },
-  // {
-  //   lng: "ko",
-  //   image: "https://media.istockphoto.com/id/1132287785/vi/vec-to/qu%E1%BB%91c-k%E1%BB%B3-h%C3%A0n-qu%E1%BB%91c.jpg?s=612x612&w=0&k=20&c=CuJo8BowAbKtQ_plZgyqRW6QD6RjatHSf25X4pGeULg="
-  // },
+  {
+    lng: "th",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/125px-Flag_of_Thailand.svg.png"
+  },
+  {
+    lng: "kr",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png"
+  },
 ]
 
 const Header = () => {
