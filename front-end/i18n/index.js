@@ -15,7 +15,7 @@ i18n
   .use(initReactI18next)
   .init({
     fallbackLng: 'vi',
-    supportedLngs: ['vi', 'en', 'ko'],
+    supportedLngs: ['vi', 'en', 'cn', 'kr', 'th'],
     detection: {
       order: ['localStorage', 'navigator'],
       caches: ['localStorage'],
